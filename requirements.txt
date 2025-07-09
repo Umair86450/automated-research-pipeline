@@ -1,0 +1,10 @@
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langgraph
+langchain-groq
+huggingface-hub
+sentence-transformers
+faiss-cpu
+serpapi
